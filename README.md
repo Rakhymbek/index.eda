@@ -1,1 +1,1 @@
-# index.eda
+# https://rakhymbek.github.io/index.eda/
